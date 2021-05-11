@@ -1,5 +1,5 @@
 ### Hello there👋
 
 <a href="https://www.instagram.com/alexpeev9/">
-<img src="https://media.tenor.com/images/cf94a8676e7eb2b8d69e883e08c43686/tenor.gif" width="420" height="320">
+<img src="https://starecat.com/content/wp-content/uploads/when-you-write-10-lines-of-code-without-searching-on-google-it-aint-much-but-its-honest-work-farmer.jpg" width="420" height="620">
  </a>
