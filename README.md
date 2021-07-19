@@ -1,6 +1,10 @@
- [![LinkedIn][1.2]][1]
- [[![Instagram][2.2]][2]
- [![Facebook][3.2]][3]
+##My social media accounts:
+<hr>
+[![LinkedIn][1.2] Aleksandar Peev][1]
+<hr>
+ [![Instagram][2.2] alexpeev9][2]
+<hr>
+ [![Facebook][3.2] Александър Пеев][3]
 
 <!-- Icons -->
 
