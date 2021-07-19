@@ -1,4 +1,4 @@
-##My social media accounts:
+### *My social media accounts:
 [![LinkedIn][1.2]][1]
 [![Instagram][2.2]][2]
 [![Facebook][3.2]][3]
