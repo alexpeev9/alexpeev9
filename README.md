@@ -1,14 +1,16 @@
-### My social media accounts:
-[![Instagram][2.2]][2]
-[![Facebook][3.2]][3]
+<div align="center">
+<h2> Hello everyone. Welcome to my profile. </h2>
+</div>
 
-<!-- Icons -->
+<div align="center">
+<i>Follow me ony my social media accounts:</i><br>
 
-[2.2]: instagram.png (Instagram icon)
-[3.2]: facebook.png (Facebook icon)
+<a href="https://www.instagram.com/alexpeev9" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/alex.peev.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.linkedin.com/in/alexpeev9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+</div>
 
-<!-- Links to my social media accounts -->
+![](https://komarev.com/ghpvc/?username=alexpeev9)
 
-[2]: https://www.instagram.com/alexpeev9
-[3]: https://www.facebook.com/alex.peev.1
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexpeev9&show_icons=true&locale=en&layout=compact" alt="alexpeev9" /></p>
