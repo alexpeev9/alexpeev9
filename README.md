@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hello everyone. Welcome to my profile. </h2>
+<h2> Hello everyone! Welcome to my profile. </h2>
 </div>
 
 <div align="center">
