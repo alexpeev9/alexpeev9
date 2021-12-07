@@ -11,6 +11,4 @@
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=alexpeev9)
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexpeev9&show_icons=true&locale=en&layout=compact" alt="alexpeev9" /></p>
