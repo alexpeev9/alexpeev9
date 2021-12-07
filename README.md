@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<i>Follow me ony my social media accounts:</i><br>
+<i>Follow me ony my social media accounts:</i><br><br>
 
 <a href="https://www.instagram.com/alexpeev9" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/alex.peev.1" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
